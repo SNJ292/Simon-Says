@@ -42,11 +42,8 @@ Here's a walkthrough of implemented user stories:
 
 [Winning Simon Says Video](https://youtu.be/guTuolBm24o)
 
-[Time Out Gif](http://g.recordit.co/wKWAZfMZ69.gif)
+<img src = 'http://g.recordit.co/tuD8YJ7X0o.gif' width = 250> <img src = 'http://g.recordit.co/P6sBlvIDT2.gif' width = 250> <img src = 'http://g.recordit.co/fNMq6S0na5.gif' width = 250><br>
 
-[Strike Out Gif](http://g.recordit.co/P6sBlvIDT2.gif)
-
-[Different Patterns Gif](http://g.recordit.co/fNMq6S0na5.gif)
 
 
 ## Reflection Questions
